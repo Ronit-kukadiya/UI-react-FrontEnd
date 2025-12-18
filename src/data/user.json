@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "img": "src/assets/wallhaven-gpjyvl_1920x1080.png",
+      "intro": "I am very satisfied with my job role and the supportive team culture here.",
+      "tag": "Satisfied"
+    },
+    {
+      "img": "src/assets/wallpaperflare.com_wallpaper (4).jpg",
+      "intro": "I am motivated by challenging projects and the chance to develop new skills.",
+      "tag": "Motivated"
+    },
+    {
+      "img": "src/assets/ghost.jpg",
+      "intro": "I feel fulfilled in my work, contributing meaningfully to team goals and success.",
+      "tag": "Fulfilled"
+    },
+    {
+      "img": "src/assets/Screenshot (348).png",
+      "intro": "I am fully engaged in my work and appreciate the collaborative team environment.",
+      "tag": "Engaged"
+    },
+    {
+      "img": "src/assets/Screenshot (561).png",
+      "intro": "I feel appreciated for my hard work and valued by my team members they are like family.",
+      "tag": "Appreciated"
+    },
+    {
+      "img": "src/assets/Screenshot (702).png",
+      "intro": "I am content with my work-life balance and the variety of job responsibilities.",
+      "tag": "Content"
+    },
+    {
+      "img": "src/assets/Screenshot (1023).png",
+      "intro": "I enjoy the professional development programs and the opportunities to learn new skills.",
+      "tag": "Enjoying"
+    },
+    {
+      "img": "src/assets/Screenshot (164).png",
+      "intro": "I feel optimistic about my career growth and future opportunities within the company.",
+      "tag": "Optimistic"
+    },
+    {
+      "img": "src/assets/Screenshot (800).png",
+      "intro": "I feel well-supported by management and have access to all necessary resources.",
+      "tag": "Supported"
+    },
+    {
+      "img": "src/assets/Screenshot (267).png",
+      "intro": "I am proud of my contributions and how they align with the company's mission.",
+      "tag": "Proud"
+    }
+  ]
+}
