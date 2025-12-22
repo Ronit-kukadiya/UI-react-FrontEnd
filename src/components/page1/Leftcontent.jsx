@@ -1,4 +1,3 @@
-import React from "react";
 import { ArrowUpRight } from "lucide-react";
 const Leftcontent = () => {
   return (
@@ -15,7 +14,7 @@ const Leftcontent = () => {
       </div>
 
       <div>
-        <ArrowUpRight className="size-26" />
+        <ArrowUpRight className="size-26" color="#3b0042" />
       </div>
     </div>
   );
