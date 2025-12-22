@@ -2,16 +2,16 @@ import Page1 from "./components/page1/Page1";
 // import Page2 from "./components/page2/Page2";
 import "./App.css";
 // import "./data/user.json";
-import img1 from "./assets/wallhaven-gpjyvl_1920x1080.png";
-import img2 from "./assets/wallpaperflare.com_wallpaper (4).jpg";
+import img1 from "./assets/wallhaven.png";
+import img2 from "./assets/wallpaperflare_wallpaper(4).jpg";
 import img3 from "./assets/ghost.jpg";
-import img4 from "./assets/Screenshot (348).png";
-import img5 from "./assets/Screenshot (561).png";
-import img6 from "./assets/Screenshot (702).png";
-import img7 from "./assets/Screenshot (1023).png";
-import img8 from "./assets/Screenshot (164).png";
-import img9 from "./assets/Screenshot (800).png";
-import img10 from "./assets/Screenshot (267).png";
+import img4 from "./assets/Screenshot(348).png";
+import img5 from "./assets/Screenshot(561).png";
+import img6 from "./assets/Screenshot(702).png";
+import img7 from "./assets/Screenshot(1023).png";
+import img8 from "./assets/Screenshot(164).png";
+import img9 from "./assets/Screenshot(800).png";
+import img10 from "./assets/Screenshot(267).png";
 
 const App = () => {
   const user = [
